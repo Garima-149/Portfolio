@@ -5,7 +5,7 @@ It showcases my profile, experience, projects, skills, leadership roles, resume,
 
 ## Live Demo
 
-(https://garima-149.github.io/Portfolio/)
+https://garima-149.github.io/Portfolio/
 
 ## About Me
 
